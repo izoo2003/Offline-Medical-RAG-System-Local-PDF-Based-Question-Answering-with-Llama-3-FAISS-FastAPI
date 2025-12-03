@@ -1,0 +1,2 @@
+# Offline-Medical-RAG-System-Local-PDF-Based-Question-Answering-with-Llama-3-FAISS-FastAPI
+A fully offline Retrieval-Augmented Generation (RAG) system that answers questions from medical PDFs using Llama 3 via Ollama. Includes PDF ingestion, semantic search with FAISS, embeddings via Sentence Transformers, a FastAPI backend, and a Streamlit UI for real-time interactive querying—no cloud or paid APIs required.
